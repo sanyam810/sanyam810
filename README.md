@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sanyam</h1>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
-- 🔭 I’m currently working on **MERN**
-
-- 🌱 I’m currently learning **DSA and Solidity**
-
-- 📫 How to reach me **sanyamsaini081@gmail.com**
+<h1>Hi 👋, I'm Sanyam</h1>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
+<br>
+- 🌱 I’m currently learning **DSA, MERN Stack and Solidity**
+<br><br>
+- 📫 Say Hi **sanyamsaini081@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
