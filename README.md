@@ -1,9 +1,13 @@
 <h1>Hi 👋, I'm Sanyam</h1>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 <br>
-- 🌱 I’m currently learning **DSA, MERN Stack and Solidity**
+- 🌱 I’m currently learning **DSA, MERN Stack and Solidity**<br>
+- 💙 I love creating animations using blender.<br>
+- 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills.<br>
+- 🍀 I love to take on challenges and explore new things every day.<br>
+- ✨ I'm pursuing my bachelor's in Bioinformatics. I hope that I bring great changes in every aspect in near future.<br>
 <br><br>
-- 📫 Say Hi **sanyamsaini081@gmail.com**
+- 📫 Say hi :) **sanyamsaini081@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
