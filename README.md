@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/sanyam_810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanyam_810" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanyam08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanyam08" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sanyam08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sanyam08" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sanyam-saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sanyam08" height="30" width="40" /></a>
 <a href="https://instagram.com/sanyam_810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanyam_810" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanyam810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanyam810" height="30" width="40" /></a>
 </p>
