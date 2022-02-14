@@ -3,9 +3,9 @@
 <br>
 - 🌱 I’m currently learning **DSA, MERN Stack and Solidity**<br>
 - 💙 I love creating animations using blender.<br>
-- 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills.<br>
+- 🧑‍🤝‍🧑 Looking for a team or an organization       where I can learn and develop my skills.<br>
 - 🍀 I love to take on challenges and explore new things every day.<br>
-- ✨ I'm pursuing my bachelor's in Bioinformatics. I hope that I bring great changes in every aspect in near future.<br>
+- ✨ I'm pursuing my bachelor's in Bioinformatics. I hope that      I bring great changes in every aspect in near future.<br>
 <br><br>
 - 📫 Say hi :) **sanyamsaini081@gmail.com**
 
