@@ -10,7 +10,7 @@ Hii, I'm Sanyam Saini. I am 18 years old and enjoy creating digital art with sof
 * ✉️  You can contact me at [sanyamsaini081@gmail.com](mailto:sanyamsaini081@gmail.com)
 * 🧠  I'm learning DSA, MERN Stack and Solidity
 * 🤝  I'm open to collaborating on Exciting projects or ideas with potential
-* ⚡  Also working on my podcast!
+* ⚡  Also working on a podcast!
 
 <a href="https://www.twitter.com/Sanyam_810" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Sanyam_810?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
@@ -26,6 +26,7 @@ src="https://img.shields.io/twitter/follow/Sanyam_810?logo=twitter&style=for-the
 <p align="left">
 <a href="https://discord.com/users/Sanyam_810#9954" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/sanyam810" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/Sanyam_810" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/sanyam08" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/17303384" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/Sanyam_810" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
