@@ -8,7 +8,7 @@ Hii, I'm Sanyam Saini. I am 18 years old and enjoy creating digital art with sof
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sanyamsaini081@gmail.com](mailto:sanyamsaini081@gmail.com)
-* 🧠  I'm learning DSA, MERN Stack and Solidity
+* 🧠  I'm learning DSA, MERN Stack, Solidity and DevOps
 * 🤝  I'm open to collaborating on Exciting projects or ideas with potential
 * ⚡  Also working on a podcast!
 
