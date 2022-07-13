@@ -4,7 +4,7 @@ Hi 👋 My name is Sanyam Saini
 Student | Coder | Digital Creator
 ---------------------------------
 
-Hii, I'm Sanyam Saini. I am 18 years old and enjoy creating digital art with software such as a blender. I have created a small Instagram profile displaying my artwork. I'm also familiar with programming languages such C++, and I'm presently learning Solidity and Web Development. I'm also learning German and have completed till A2 level at Goethe Institut. I love to take on challenges and explore new things every day. At college, I'm pursuing my bachelor's in Bioinformatics. I have always been fascinated by the world of computers but also by genetics and am grateful to pursue this field of study. I hope that I bring great changes in every aspect in the near future.
+I enjoy creating digital art with software such as a blender and have created a small Instagram profile displaying my artwork. I'm also familiar with programming languages such C++, and I'm presently learning Solidity and Web Development. I'm also learning German and have completed till A2 level at Goethe Institut. I love to take on challenges and explore new things every day. At college, I'm pursuing my bachelor's in Bioinformatics. I have always been fascinated by the world of computers but also by genetics and am grateful to pursue this field of study. I hope that I bring great changes in every aspect in the near future.
 
 * 🌍  I'm from India
 * ✉️  You can contact me at [sanyamsaini081@gmail.com](mailto:sanyamsaini081@gmail.com)
