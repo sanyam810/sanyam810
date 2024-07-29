@@ -11,7 +11,7 @@ I enjoy creating digital art with software such as a blender and have created a 
 * 🧠  I'm learning DSA, MERN Stack, Solidity and DevOps
 * 🤝  I'm open to collaborating on Exciting projects or ideas with potential
 * ⚡  Also love to write blogs on tools and technologies that revolves around CNCF projects!
-* 🌍 Check out my portfolio : https://itssanyam.tech
+* 🌍 Here's my portfolio : https://itssanyam.tech
 
 <a href="https://www.twitter.com/Sanyam_810" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Sanyam_810?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
